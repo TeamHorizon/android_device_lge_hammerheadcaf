@@ -1,0 +1,11 @@
+[
+ {
+   "repository": "TeamHorizon/android_kernel_lge_hammerheadcaf",
+   "branch": "n",
+   "target_path": "kernel/lge/hammerhead"
+ },
+ {
+   "repository": "LineageOS/android_packages_resources_devicesettings",
+   "target_path": "packages/resources/devicesettings"
+ }
+]
